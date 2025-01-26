@@ -1,51 +1,91 @@
-Nirvaan 😇
+# AI Voice Therapist 🤖
 
-AI Voice Therapist 🤖 is an innovative solution designed to provide accessible mental health support through voice calls. Users can make a call and take therapy from the AI-powered system, which listens empathetically to their concerns and offers personalized solutions and guidance. The project aims to make mental health support available to everyone, anytime, anywhere.
+### Empowering Mental Health Support Anytime, Anywhere 💬
 
-Key Features 💡
+AI Voice Therapist is an innovative solution that provides accessible mental health support through voice calls. Powered by AI, it listens empathetically to users' concerns and offers personalized guidance, making mental health care available to everyone, whenever they need it.
 
-📞 Instant Therapy Calls: Users can call the AI therapist and receive immediate support.
+---
 
-🌟 24/7 Availability: Support is available anytime you need it.
+## Key Features 💡
 
-💛 Empathetic Listening: AI-powered understanding of emotions through voice analysis.
+- **📞 Instant Therapy Calls**  
+  Users can call the AI therapist and receive immediate support.
 
-🛠️ Personalized Guidance: Tailored advice based on the user's emotional state and concerns.
+- **🌟 24/7 Availability**  
+  Support is available anytime, ensuring mental health care is always within reach.
 
-🔒 Privacy-Focused: Conversations are secure and confidential.
+- **💛 Empathetic Listening**  
+  The AI understands emotions through voice analysis and provides a compassionate response.
 
-🌐 Multilingual Support: Engage in conversations in multiple languages for wider accessibility.
+- **🛠️ Personalized Guidance**  
+  Get tailored advice based on your emotional state and specific concerns.
 
-🧠 Self-Care Tips: Recommendations for stress relief, self-improvement, and mental well-being.
+- **🔒 Privacy-Focused**  
+  Conversations are secure and confidential, safeguarding user privacy.
 
-🔬 AI-Powered Insights: Tracks emotional patterns and provides self-awareness reports.
+- **🌐 Multilingual Support**  
+  Engage in conversations in multiple languages to reach a broader audience.
 
-How It Works ⚙️
+- **🧠 Self-Care Tips**  
+  Receive actionable recommendations for stress relief, self-improvement, and mental well-being.
 
-📞 Call the AI Therapist: Users initiate a voice call via the provided helpline.
+- **🔬 AI-Powered Insights**  
+  Tracks emotional patterns and generates self-awareness reports to improve mental health.
 
-🤔 Express Your Feelings: The AI listens actively to the user's concerns and emotions.
+---
 
-💪 Receive Guidance: Based on analysis, the AI suggests coping strategies and self-care actions.
+## How It Works ⚙️
 
-💪 Follow-Up Support: Users can reconnect for continued support and motivation.
+1. **📞 Call the AI Therapist**  
+   Start a voice call through the helpline to reach the AI therapist.
 
-Why AI Voice Therapist? 🎯
+2. **🤔 Express Your Feelings**  
+   The AI listens to your concerns and emotions with understanding and empathy.
 
-🌍 Accessible to Everyone: No geographical or financial barriers to mental health support.
+3. **💪 Receive Guidance**  
+   Based on voice analysis, the AI suggests coping strategies and self-care actions.
 
-🙏 Non-Judgmental Space: Users can express themselves freely without fear of judgment.
+4. **💪 Follow-Up Support**  
+   Reconnect with the AI for continued support and motivation as needed.
 
-🌿 Empowers Self-Care: Encourages individuals to take proactive steps for their well-being.
+---
 
-👥 Supports Mental Wellness for All: Beneficial for students, employees, and elderly individuals.
+## Why AI Voice Therapist? 🎯
 
-Future Roadmap 📚
+- **🌍 Accessible to Everyone**  
+  No geographical or financial barriers to getting the help you need.
 
-🧠 Integration with wearable devices for better mental health tracking.
+- **🙏 Non-Judgmental Space**  
+  A safe space where users can express themselves freely, without fear of judgment.
 
-🌐 Expansion to more languages and regional dialects.
+- **🌿 Empowers Self-Care**  
+  Encourages individuals to take proactive steps for their mental well-being.
 
-🎨 Incorporating real-time AI-driven coping exercises.
+- **👥 Supports Mental Wellness for All**  
+  Perfect for students, employees, and elderly individuals who need support.
 
-👨‍⚕️ Partnerships with mental health professionals for hybrid support.
+---
+
+## Future Roadmap 📚
+
+- **🧠 Integration with Wearable Devices**  
+  To offer better mental health tracking and insights.
+
+- **🌐 Expansion to More Languages**  
+  Including regional dialects to cater to a broader audience.
+
+- **🎨 Real-Time AI-Driven Coping Exercises**  
+  Introducing interactive coping exercises powered by AI for real-time support.
+
+- **👨‍⚕️ Partnerships with Mental Health Professionals**  
+  Creating a hybrid support model combining AI and human expertise.
+
+---
+
+## Getting Started 🚀
+
+To use the AI Voice Therapist:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/ai-voice-therapist.git
