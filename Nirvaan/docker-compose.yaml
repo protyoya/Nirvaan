@@ -1,0 +1,22 @@
+services:
+  backend:
+    build: 
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8050:8050"
+    environment:
+      - AGENT_ID=${AGENT_ID}
+      - RETELL_API_KEY=${RETELL_API_KEY}
+      - FROM_PHONE_NUMBER=${FROM_PHONE_NUMBER}
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3050:3050"
+    environment:
+      - VITE_API_URL=${VITE_API_URL}
+    restart: unless-stopped
